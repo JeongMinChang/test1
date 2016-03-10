@@ -7,5 +7,10 @@ int main(void)
 
 
 	printf("ÇÑ¹ø´õ");
+
+
+	int a; 
+	int b;
+	
 	return 0;
 }
